@@ -1,0 +1,13 @@
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\bin\Debug\SoftwareEnVetProject.exe.config
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\bin\Debug\SoftwareEnVetProject.exe
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\bin\Debug\SoftwareEnVetProject.pdb
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\VetClient.csproj.AssemblyReference.cache
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\SoftwareEnVetProject.Properties.Resources.resources
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\VetClient.csproj.GenerateResource.cache
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\VetClient.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\SoftwareEnVetProject.exe
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\SoftwareEnVetProject.pdb
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\SoftwareEnVetProject.log_in.resources
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\SoftwareEnVetProject.sign_up.resources
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\SoftwareEnVetProject.sign_up_doctor.resources
+C:\Users\Dasha\source\repos\SoftwareEnVetProject-master\SoftwareEnVetProject\obj\Debug\SoftwareEnVetProject.sign_up_owner.resources
